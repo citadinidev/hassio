@@ -116,7 +116,7 @@ fi
 
 info "Restarting NetworkManager"
 # systemctl restart "${SERVICE_NM}"
-
+info "teste"
 # Parse command line parameters
 while [[ $# -gt 0 ]]; do
     arg="$1"
