@@ -14,7 +14,7 @@ info "Home Assistant Supervised script available at"
 info ""
 info "https://github.com/home-assistant/supervised-installer"
 info ""
-info "Teste arquivo comentado"
+info "Teste arquivo comentado!"
 info ""
 
 sleep 10
